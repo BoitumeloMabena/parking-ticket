@@ -1,0 +1,8 @@
+C:\Users\Boitumelo\Desktop\222011403\222011403\bin\Debug\222011403.exe.config
+C:\Users\Boitumelo\Desktop\222011403\222011403\bin\Debug\222011403.exe
+C:\Users\Boitumelo\Desktop\222011403\222011403\bin\Debug\222011403.pdb
+C:\Users\Boitumelo\Desktop\222011403\222011403\obj\Debug\222011403.csproj.AssemblyReference.cache
+C:\Users\Boitumelo\Desktop\222011403\222011403\obj\Debug\222011403.csproj.SuggestedBindingRedirects.cache
+C:\Users\Boitumelo\Desktop\222011403\222011403\obj\Debug\222011403.csproj.CoreCompileInputs.cache
+C:\Users\Boitumelo\Desktop\222011403\222011403\obj\Debug\222011403.exe
+C:\Users\Boitumelo\Desktop\222011403\222011403\obj\Debug\222011403.pdb
